@@ -1,0 +1,53 @@
+{
+    "trails": [
+        {
+            "id": "tunels-sp",
+            "name": "Trilha Rotas dos Túneis (São Roque / Alumínio / Sorocaba)",
+            "region": "SP - São Roque",
+            "file": "trilha-rotas-dos-tuneis-sao-roque-aluminio-sorocaba.gpx",
+            "length_km": 51.39
+        },
+        {
+            "id": "rota-pedra(bike)-sp",
+            "name": "Trilha Rota das Pedras (Atibaia - Mairiporã)",
+            "region": "SP - Atibaia",
+            "file": "rota-das-pedras-atibaia-ate-mairipora(bike).gpx",
+            "length_km": 76.45
+        },
+        {
+            "id": "rota-pedra(jipe)-sp",
+            "name": "Trilha Rota das Pedras (Pedra Grande / Cachoeira do Barrocão / Pedra do Coração",
+            "region": "SP - Atibaia",
+            "file": "rota-das-pedras-pedra-grande-x-cachoeira-do-barrocao-x-pedra.gpx",
+            "length_km": 105.69
+        },
+        {
+            "id": "jeep-nature-sp",
+            "name": "Jeep Nature Campinas (2025)",
+            "region": "SP - Campinas",
+            "file": "jeep-nature-campinas-2025.gpx",
+            "length_km": 72.13
+        },
+        {
+            "id": "circuito-fruta-sp",
+            "name": "Circuito das Frutas (Vinhedo / Louveira)",
+            "region": "SP - Vinhedo",
+            "file": "vinhedo-louveira-circuito-das-frutas-iii-30km.gpx",
+            "length_km": 31
+        },
+        {
+            "id": "serra-cocais-sp",
+            "name": "Serra dos Cocais",
+            "region": "SP - Valinhos",
+            "file": "serra-dos-cocais-valinhos.gpx",
+            "length_km": 10.37
+        },
+        {
+            "id": "trilha-morungaba-sp",
+            "name": "Trilha (Morungaba / Pedreira / Amparo / Mostardas / Socorro)",
+            "region": "SP - Campinas",
+            "file": "morungaba-pedreira-amparo-mostardas-socorro.gpx",
+            "length_km": 111.25
+        }
+    ]
+}
